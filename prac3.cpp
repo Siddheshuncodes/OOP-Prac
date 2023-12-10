@@ -30,7 +30,7 @@ class publication{
         price= 0.0;
 
 
-        
+
     }
 };
 
